@@ -1,0 +1,349 @@
+city_id,city_name,country,country_code,continent,hemisphere,lat,lon
+CITY_EGY_CAIR_000,Cairo,Egypt,EGY,Africa,north,30.0443879,31.2357257
+CITY_GHA_ACCR_001,Accra,Ghana,GHA,Africa,north,5.5571096,-0.2012376
+CITY_GHA_KUMA_002,Kumasi,Ghana,GHA,Africa,north,6.6985605,-1.6233086
+CITY_GHA_TEMA_003,Tema,Ghana,GHA,Africa,north,5.6596441,-0.0096592
+CITY_KEN_KABA_004,Kabarnet,Kenya,KEN,Africa,north,0.71196215,36.0412745681168
+CITY_KEN_NAIR_005,Nairobi,Kenya,KEN,Africa,south,-1.30261485,36.82884202
+CITY_NGA_ABUJ_006,Abuja,Nigeria,NGA,Africa,north,9.0643305,7.4892974
+CITY_NGA_ENUG_007,Enugu,Nigeria,NGA,Africa,north,6.5536094,7.4143061
+CITY_NGA_IBAD_008,Ibadan,Nigeria,NGA,Africa,north,7.3786064,3.8969928
+CITY_NGA_IKEJ_009,Ikeja,Nigeria,NGA,Africa,north,6.5960605,3.340787
+CITY_NGA_IKOY_010,Ikoyi,Nigeria,NGA,Africa,north,6.4296012,3.4172646
+CITY_NGA_ILOR_011,Ilorin,Nigeria,NGA,Africa,north,8.4963657,4.5480484
+CITY_NGA_KADU_012,Kaduna,Nigeria,NGA,Africa,north,10.3825318,7.8533226
+CITY_NGA_KANO_013,Kano,Nigeria,NGA,Africa,north,11.8948389,8.5364136
+CITY_NGA_KUJE_014,Kuje,Nigeria,NGA,Africa,north,8.8311228,7.1724673
+CITY_NGA_LAGO_015,Lagos,Nigeria,NGA,Africa,north,6.4550575,3.3941795
+CITY_NGA_PORT_016,Port Harcourt,Nigeria,NGA,Africa,north,4.7676576,7.0188527
+CITY_ZAF_ATLA_017,Atlantis,South Africa,ZAF,Africa,south,-33.8794444,18.4963889
+CITY_ZAF_BLOE_018,Bloemfontein,South Africa,ZAF,Africa,south,-29.116395,26.215496
+CITY_ZAF_CAPE_019,Cape Town,South Africa,ZAF,Africa,south,-33.928992,18.417396
+CITY_ZAF_CENT_020,Centurion,South Africa,ZAF,Africa,south,-25.836389,28.180278
+CITY_ZAF_DURB_021,Durban,South Africa,ZAF,Africa,south,-29.861825,31.009909
+CITY_ZAF_GERM_022,Germiston,South Africa,ZAF,Africa,south,-26.0682406,28.0479844
+CITY_ZAF_JOHA_023,Johannesburg,South Africa,ZAF,Africa,south,-26.205,28.049722
+CITY_ZAF_KEMP_024,Kempton Park,South Africa,ZAF,Africa,south,-26.0964372,28.2336325
+CITY_ZAF_KRUG_025,Krugersdorp,South Africa,ZAF,Africa,south,-26.2227778,27.89
+CITY_ZAF_PORT_026,Port Elizabeth,South Africa,ZAF,Africa,south,-33.9618359,25.6186512
+CITY_ZAF_PRET_027,Pretoria,South Africa,ZAF,Africa,south,-25.7459277,28.1879101
+CITY_ZAF_RAND_028,Randburg,South Africa,ZAF,Africa,south,-26.096111,27.975
+CITY_ZAF_ROOD_029,Roodepoort,South Africa,ZAF,Africa,south,-26.1563889,27.8858333
+CITY_ZAF_TEMB_030,Tembisa,South Africa,ZAF,Africa,south,-25.999262,28.125912
+CITY_TZA_DARE_031,Dar es Salaam,Tanzania,TZA,Africa,south,-6.8160837,39.2803583
+CITY_TUN_EIHA_032,EI Hamma,Tunisia,TUN,Africa,north,33.8894378,9.7997111
+CITY_UGA_ENTE_033,Entebbe,Uganda,UGA,Africa,north,0.3760928,32.4561265390819
+CITY_UGA_KAMP_034,Kampala,Uganda,UGA,Africa,north,0.3177137,32.5813539
+CITY_ZMB_LUSA_035,Lusaka,Zambia,ZMB,Africa,south,-15.357609,29.1653092
+CITY_ZWE_HARA_036,Harare,Zimbabwe,ZWE,Africa,south,-17.8567035,31.0601584
+CITY_BGD_CHIT_037,Chittagong,Bangladesh,BGD,Asia,north,22.333778,91.8344348
+CITY_BGD_DHAK_038,Dhaka,Bangladesh,BGD,Asia,north,23.7644025,90.389015
+CITY_IND_AHMA_039,Ahmadabad,India,IND,Asia,north,23.0215374,72.5800568
+CITY_IND_ANDH_040,Andhra Pradesh,India,IND,Asia,north,15.9240905,80.1863809
+CITY_IND_ANUP_041,Anuppur,India,IND,Asia,north,22.9520798,81.630300700191
+CITY_IND_BELG_042,Belgaum,India,IND,Asia,north,15.8572666,74.5069343
+CITY_IND_BENG_043,Bengaluru,India,IND,Asia,north,12.9767936,77.590082
+CITY_IND_BENG_044,Bengaluru South,India,IND,Asia,north,12.98815675,77.62260004
+CITY_IND_BHUB_045,Bhubaneshwar,India,IND,Asia,north,20.2602964,85.8394521
+CITY_IND_BIHA_046,Bihar,India,IND,Asia,north,25.6440845,85.906508
+CITY_IND_GHAZ_047,Ghaziabad,India,IND,Asia,north,28.7678881,77.4606672350851
+CITY_IND_GURG_048,Gurgaon,India,IND,Asia,north,28.4646148,77.0299194
+CITY_IND_GUWA_049,Guwahati,India,IND,Asia,north,26.1805978,91.753943
+CITY_IND_HAOR_050,Haora,India,IND,Asia,north,22.5736296,88.3251045
+CITY_IND_HAYA_051,Hayathnagar,India,IND,Asia,north,17.3281147,78.6045399
+CITY_IND_HYDE_052,Hyderabad,India,IND,Asia,north,17.360589,78.4740613
+CITY_IND_JAIP_053,Jaipur,India,IND,Asia,north,26.9154576,75.8189817
+CITY_IND_KOLK_054,Kolkata,India,IND,Asia,north,22.5726459,88.3638953
+CITY_IND_LUCK_055,Lucknow,India,IND,Asia,north,26.8381,80.9346001
+CITY_IND_MADH_056,Madhya Pradesh,India,IND,Asia,north,23.8143419,77.5340719
+CITY_IND_MUMB_057,Mumbai,India,IND,Asia,north,19.0785451,72.878176
+CITY_IND_NAGP_058,Nagpur,India,IND,Asia,north,21.1498134,79.0820556
+CITY_IND_NEWD_059,New Delhi,India,IND,Asia,north,28.6138954,77.2090057
+CITY_IND_NOID_060,Noida,India,IND,Asia,north,28.5706333,77.3272147
+CITY_IND_ORIS_061,Orissa,India,IND,Asia,north,20.5431241,84.6897321
+CITY_IND_PUNE_062,Pune,India,IND,Asia,north,18.521428,73.8544541
+CITY_IND_RAJE_063,Rajendra Nagar,India,IND,Asia,north,22.6700186,75.8292229
+CITY_IND_SURA_064,Surat,India,IND,Asia,north,21.2094892,72.8317058
+CITY_IND_TAMI_065,Tamil Nadu,India,IND,Asia,north,10.9094334,78.3665347
+CITY_IND_UTTA_066,Uttar Pradesh,India,IND,Asia,north,27.1303344,80.859666
+CITY_IDN_KUTA_067,Kuta,Indonesia,IDN,Asia,south,-8.72629725,115.177612861612
+CITY_IDN_MARG_068,Margaasih,Indonesia,IDN,Asia,south,-7.0162852,107.8380716
+CITY_IDN_SUKM_069,Sukmajaya,Indonesia,IDN,Asia,south,-6.0182223,106.0715845
+CITY_JPN_TOKY_070,Tokyo,Japan,JPN,Asia,north,35.6821936,139.762221
+CITY_SAU_JEDD_071,Jeddah,Kingdom of Saudi Arabia,SAU,Asia,north,21.5810088,39.1653612
+CITY_SAU_RIYA_072,Riyadh,Kingdom of Saudi Arabia,SAU,Asia,north,24.638916,46.7160104
+CITY_MYS_AMPA_073,Ampang Jaya,Malaysia,MYS,Asia,north,3.15591395,101.74032931691
+CITY_MYS_KUAL_074,Kuala Lumpur,Malaysia,MYS,Asia,north,3.1516964,101.6942371
+CITY_MYS_PETA_075,Petaling Jaya,Malaysia,MYS,Asia,north,3.083333,101.583333
+CITY_MYS_SUBA_076,Subang Jaya,Malaysia,MYS,Asia,north,3.1378819,101.5966801
+CITY_MYS_SUNG_077,Sungai Buloh,Malaysia,MYS,Asia,north,3.21,101.55
+CITY_PAK_ISLA_078,Islamabad,Pakistan,PAK,Asia,north,33.6938118,73.0651511
+CITY_PAK_KARA_079,Karachi,Pakistan,PAK,Asia,north,24.8546842,67.0207055
+CITY_PAK_LAHO_080,Lahore,Pakistan,PAK,Asia,north,31.5656822,74.3141829
+CITY_PAK_NORT_081,North-west Frontier,Pakistan,PAK,Asia,north,33.712802,71.2678805
+CITY_PAK_PUNJ_082,Punjab,Pakistan,PAK,Asia,north,31.0,72.0
+CITY_PAK_SIND_083,Sindh,Pakistan,PAK,Asia,north,25.5,69.0
+CITY_PHL_CAGA_084,Cagayan De Oro,Republic of the Philippines,PHL,Asia,north,8.4756417,124.6421532
+CITY_PHL_CEBU_085,Cebu,Republic of the Philippines,PHL,Asia,north,10.2931062,123.9020773
+CITY_PHL_DAVA_086,Davao City,Republic of the Philippines,PHL,Asia,north,7.0648306,125.6080623
+CITY_PHL_MAKA_087,Makati,Republic of the Philippines,PHL,Asia,north,14.5567949,121.0211226
+CITY_PHL_MANI_088,Manila City,Republic of the Philippines,PHL,Asia,north,14.5906346,120.9799964
+CITY_PHL_PASI_089,Pasig City,Republic of the Philippines,PHL,Asia,north,14.5605166,121.0764343
+CITY_PHL_QUEZ_090,Quezon City,Republic of the Philippines,PHL,Asia,north,14.6510546,121.0486254
+CITY_TUR_ANTA_091,Antalya,Turkey,TUR,Asia,north,36.8864752,30.7029585
+CITY_ARE_ABUD_092,Abu Dhabi,United Arab Emirates,ARE,Asia,north,24.4538352,54.3774014
+CITY_ARE_DUBA_093,Dubai,United Arab Emirates,ARE,Asia,north,25.276987,55.296249
+CITY_FRA_PARI_094,Paris,France,FRA,Europe,north,48.8534951,2.3483915
+CITY_DEU_BERL_095,Berlin,Germany,DEU,Europe,north,52.5170365,13.3888599
+CITY_DEU_POTS_096,Potsdam,Germany,DEU,Europe,north,52.4009309,13.0591397
+CITY_IRL_CORK_097,Cork,Ireland,IRL,Europe,north,51.897077,-8.4654674
+CITY_IRL_DUBL_098,Dublin,Ireland,IRL,Europe,north,53.3493795,-6.2605593
+CITY_IRL_SOUT_099,South Dublin,Ireland,IRL,Europe,north,53.27326035,-6.407076705
+CITY_IRL_SWOR_100,Swords,Ireland,IRL,Europe,north,53.49422125,-6.224980209
+CITY_IRL_WEXF_101,Wexford,Ireland,IRL,Europe,north,52.46018745,-6.606515459
+CITY_ITA_CIAM_102,Ciampino,Italy,ITA,Europe,north,41.8933203,12.4829321
+CITY_ITA_MILA_103,Milano,Italy,ITA,Europe,north,45.4641943,9.1896346
+CITY_ITA_ROME_104,Rome,Italy,ITA,Europe,north,41.8933203,12.4829321
+CITY_NLD_AMST_105,Amsterdam,Nederlands,NLD,Europe,north,52.3730796,4.8924534
+CITY_RUS_MOSC_106,Moscow,Russia,RUS,Europe,north,55.625578,37.6063916
+CITY_ESP_BARC_107,Barcelona,Spain,ESP,Europe,north,41.3828939,2.1774322
+CITY_ESP_GAUC_108,Gaucín,Spain,ESP,Europe,north,36.5192377,-5.3177544
+CITY_ESP_MADR_109,Madrid,Spain,ESP,Europe,north,40.4167047,-3.7035825
+CITY_GBR_BELF_110,Belfast,United Kingdom,GBR,Europe,north,54.596391,-5.9301829
+CITY_GBR_BIRK_111,Birkenhead,United Kingdom,GBR,Europe,north,53.3895177,-3.0248007
+CITY_GBR_BIRM_112,Birmingham,United Kingdom,GBR,Europe,north,52.4796992,-1.9026911
+CITY_GBR_BRIG_113,Brighton,United Kingdom,GBR,Europe,north,50.8214626,-0.1400561
+CITY_GBR_BRIS_114,Bristol,United Kingdom,GBR,Europe,north,51.4538022,-2.5972985
+CITY_GBR_CAMB_115,Cambridge,United Kingdom,GBR,Europe,north,52.2055314,0.1186637
+CITY_GBR_CARD_116,Cardiff,United Kingdom,GBR,Europe,north,51.4816546,-3.1791934
+CITY_GBR_COVE_117,Coventry,United Kingdom,GBR,Europe,north,52.4081812,-1.510477
+CITY_GBR_DERB_118,Derby,United Kingdom,GBR,Europe,north,52.9142235,-1.471988546
+CITY_GBR_DUDL_119,Dudley,United Kingdom,GBR,Europe,north,52.5110832,-2.0816813
+CITY_GBR_EAST_120,East,United Kingdom,GBR,Europe,north,50.90894935,-1.40282796619078
+CITY_GBR_EAST_121,East Midlands,United Kingdom,GBR,Europe,north,52.7965611,-0.671794756
+CITY_GBR_EDIN_122,Edinburgh,United Kingdom,GBR,Europe,north,55.9533456,-3.1883749
+CITY_GBR_GLAS_123,Glasgow,United Kingdom,GBR,Europe,north,55.861155,-4.2501687
+CITY_GBR_HIGH_124,Highland,United Kingdom,GBR,Europe,north,57.5066357,-5.0038367
+CITY_GBR_HULL_125,Hull,United Kingdom,GBR,Europe,north,53.76238625,-0.330121376
+CITY_GBR_LEED_126,Leeds,United Kingdom,GBR,Europe,north,53.7974185,-1.5437941
+CITY_GBR_LEIC_127,Leicester,United Kingdom,GBR,Europe,north,52.6362,-1.1331969
+CITY_GBR_LIVE_128,Liverpool,United Kingdom,GBR,Europe,north,53.4071991,-2.99168
+CITY_GBR_LOND_129,London,United Kingdom,GBR,Europe,north,51.4893335,-0.144055085
+CITY_GBR_MANC_130,Manchester,United Kingdom,GBR,Europe,north,53.4794892,-2.2451148
+CITY_GBR_MILT_131,Milton Keynes,United Kingdom,GBR,Europe,north,52.0406502,-0.7594092
+CITY_GBR_NEWC_132,Newcastle upon Tyne,United Kingdom,GBR,Europe,north,54.9738474,-1.6131572
+CITY_GBR_NORT_133,North East,United Kingdom,GBR,Europe,north,54.73141115,-1.791981336
+CITY_GBR_NORT_134,North West,United Kingdom,GBR,Europe,north,53.2347046,-1.4291232
+CITY_GBR_NORT_135,Northampton,United Kingdom,GBR,Europe,north,52.2378853,-0.8963639
+CITY_GBR_NORW_136,Norwich,United Kingdom,GBR,Europe,north,52.6285576,1.2923954
+CITY_GBR_NOTT_137,Nottingham,United Kingdom,GBR,Europe,north,52.9534193,-1.1496461
+CITY_GBR_OXFO_138,Oxford,United Kingdom,GBR,Europe,north,51.7520131,-1.2578499
+CITY_GBR_READ_139,Reading,United Kingdom,GBR,Europe,north,51.4564242,-0.9700664
+CITY_GBR_SALF_140,Salford,United Kingdom,GBR,Europe,north,53.4877463,-2.2891921
+CITY_GBR_SHEF_141,Sheffield,United Kingdom,GBR,Europe,north,53.3806626,-1.4702278
+CITY_GBR_SOUT_142,South East,United Kingdom,GBR,Europe,north,54.94987225,-1.36036540985681
+CITY_GBR_SOUT_143,South West,United Kingdom,GBR,Europe,north,51.50076785,-2.550310634
+CITY_GBR_SOUT_144,Southampton,United Kingdom,GBR,Europe,north,50.9025349,-1.404189
+CITY_GBR_WARR_145,Warrington,United Kingdom,GBR,Europe,north,53.3899497,-2.5943178
+CITY_GBR_WEST_146,West Bromwich,United Kingdom,GBR,Europe,north,52.5186579,-1.9923114
+CITY_GBR_WEST_147,West Midlands,United Kingdom,GBR,Europe,north,52.5050033,-1.964396123
+CITY_GBR_YORK_148,York,United Kingdom,GBR,Europe,north,53.959,-1.0815
+CITY_GBR_YORK_149,Yorkshire and The Humber,United Kingdom,GBR,Europe,north,53.9318994,-1.1664716608886
+CITY_CAN_CALG_150,Calgary,Canada,CAN,North America,north,51.0456064,-114.057541
+CITY_CAN_EDMO_151,Edmonton,Canada,CAN,North America,north,53.5462055,-113.491241
+CITY_CAN_HALI_152,Halifax,Canada,CAN,North America,north,44.648618,-63.5859487
+CITY_CAN_HAMI_153,Hamilton,Canada,CAN,North America,north,43.2560802,-79.8728583
+CITY_CAN_LOND_154,London,Canada,CAN,North America,north,42.9832406,-81.243372
+CITY_CAN_MISS_155,Mississauga,Canada,CAN,North America,north,43.5896231,-79.6443879
+CITY_CAN_OTTA_156,Ottawa,Canada,CAN,North America,north,45.4208777,-75.6901106
+CITY_CAN_TORO_157,Toronto,Canada,CAN,North America,north,43.6534817,-79.3839347
+CITY_CAN_VANC_158,Vancouver,Canada,CAN,North America,north,49.2608724,-123.113952
+CITY_CAN_WINN_159,Winnipeg,Canada,CAN,North America,north,49.8955367,-97.1384584
+CITY_MEX_BENI_160,Benito Juárez,Mexico,MEX,North America,north,21.0742627,-86.9265622257142
+CITY_MEX_DIST_161,Distrito Federal,Mexico,MEX,North America,north,19.4326296,-99.1331785
+CITY_MEX_PUER_162,Puerto Vallarta,Mexico,MEX,North America,north,20.6407176,-105.220306
+CITY_MEX_SOLI_163,Solidaridad,Mexico,MEX,North America,north,20.5843747,-87.5034526829675
+CITY_USA_ALBU_164,Albuquerque,United States,USA,North America,north,35.0841034,-106.650985
+CITY_USA_ALEX_165,Alexandria,United States,USA,North America,north,38.8051095,-77.0470229
+CITY_USA_ANAH_166,Anaheim,United States,USA,North America,north,33.8347516,-117.911732
+CITY_USA_ANCH_167,Anchorage,United States,USA,North America,north,61.2163129,-149.894852
+CITY_USA_ARLI_168,Arlington,United States,USA,North America,north,32.7355816,-97.1071186
+CITY_USA_ATHE_169,Athens,United States,USA,North America,north,33.9597677,-83.376398
+CITY_USA_ATLA_170,Atlanta,United States,USA,North America,north,33.7489924,-84.3902644
+CITY_USA_AUGU_171,Augusta,United States,USA,North America,north,33.4709714,-81.9748429
+CITY_USA_AUST_172,Austin,United States,USA,North America,north,30.2711286,-97.7436995
+CITY_USA_BAKE_173,Bakersfield,United States,USA,North America,north,35.3738712,-119.019463
+CITY_USA_BALT_174,Baltimore,United States,USA,North America,north,39.2908816,-76.610759
+CITY_USA_BATO_175,Baton Rouge,United States,USA,North America,north,30.4494155,-91.1869659
+CITY_USA_BAYO_176,Bayonne,United States,USA,North America,north,40.5834557,-74.1496048
+CITY_USA_BELL_177,Bellevue,United States,USA,North America,north,47.6144219,-122.192337
+CITY_USA_BERK_178,Berkeley,United States,USA,North America,north,37.8708393,-122.272863
+CITY_USA_BIRM_179,Birmingham,United States,USA,North America,north,33.5206824,-86.8024326
+CITY_USA_BOIS_180,Boise,United States,USA,North America,north,43.6166163,-116.200886
+CITY_USA_BOST_181,Boston,United States,USA,North America,north,42.3554334,-71.060511
+CITY_USA_BOUL_182,Boulder City,United States,USA,North America,north,36.0972,-115.1467
+CITY_USA_BOWL_183,Bowling Green,United States,USA,North America,north,36.9903199,-86.4436018
+CITY_USA_BUFF_184,Buffalo,United States,USA,North America,north,42.8867166,-78.8783922
+CITY_USA_BURB_185,Burbank,United States,USA,North America,north,34.1812089,-118.307201
+CITY_USA_BURL_186,Burlington,United States,USA,North America,north,44.4761601,-73.212906
+CITY_USA_CHAN_187,Chandler,United States,USA,North America,north,33.3062031,-111.841185
+CITY_USA_CHAR_188,Charlotte,United States,USA,North America,north,35.2272086,-80.8430827
+CITY_USA_CHAT_189,Chattanooga,United States,USA,North America,north,35.0457219,-85.3094883
+CITY_USA_CHIC_190,Chicago,United States,USA,North America,north,41.8755616,-87.6244212
+CITY_USA_CHRI_191,Christian,United States,USA,North America,north,39.5212598,-89.2829783
+CITY_USA_CINC_192,Cincinnati,United States,USA,North America,north,39.1014537,-84.5124602
+CITY_USA_CLEV_193,Cleveland,United States,USA,North America,north,41.4996574,-81.6936772
+CITY_USA_CLIN_194,Clinton,United States,USA,North America,north,38.5896187,-89.420064
+CITY_USA_COLL_195,College Park,United States,USA,North America,north,38.980666,-76.9369189
+CITY_USA_COLL_196,College Station,United States,USA,North America,north,30.6183939,-96.3455991
+CITY_USA_COLO_197,Colorado Springs,United States,USA,North America,north,38.8339578,-104.825348
+CITY_USA_COLU_198,Columbus,United States,USA,North America,north,39.9622601,-83.0007065
+CITY_USA_CONC_199,Concord,United States,USA,North America,north,43.207178,-71.537476
+CITY_USA_CORP_200,Corpus Christi,United States,USA,North America,north,27.7635302,-97.4033191
+CITY_USA_COVI_201,Covington,United States,USA,North America,north,31.196549,-86.4597236
+CITY_USA_CULV_202,Culver City,United States,USA,North America,north,34.0211224,-118.396466
+CITY_USA_DALL_203,Dallas,United States,USA,North America,north,32.7762719,-96.7968559
+CITY_USA_DANV_204,Danville,United States,USA,North America,north,40.125222,-87.6304614
+CITY_USA_DAVE_205,Davenport,United States,USA,North America,north,28.1743275,-81.49322346
+CITY_USA_DENT_206,Denton,United States,USA,North America,north,33.1838787,-97.1413417
+CITY_USA_DENV_207,Denver,United States,USA,North America,north,39.7392364,-104.984862
+CITY_USA_DESM_208,Des Moines,United States,USA,North America,north,41.5868654,-93.6249494
+CITY_USA_DETR_209,Detroit,United States,USA,North America,north,42.3315509,-83.0466403
+CITY_USA_DURH_210,Durham,United States,USA,North America,north,35.996653,-78.9018053
+CITY_USA_ELPA_211,El Paso,United States,USA,North America,north,31.7601164,-106.4870404
+CITY_USA_ENTE_212,Enterprise,United States,USA,North America,north,31.3151708,-85.8552161
+CITY_USA_EUGE_213,Eugene,United States,USA,North America,north,44.0505054,-123.0950506
+CITY_USA_FAYE_214,Fayetteville,United States,USA,North America,north,36.0625843,-94.1574328
+CITY_USA_FLOR_215,Floral Park,United States,USA,North America,north,40.7135078,-73.8283132
+CITY_USA_FORT_216,Fort Lauderdale,United States,USA,North America,north,26.1223084,-80.1433786
+CITY_USA_FORT_217,Fort Worth,United States,USA,North America,north,32.753177,-97.3327459
+CITY_USA_FRAN_218,Franklin,United States,USA,North America,north,33.2002659,-95.2231752
+CITY_USA_FRED_219,Frederick,United States,USA,North America,north,39.2127031,-78.279166
+CITY_USA_FREM_220,Fremont,United States,USA,North America,north,37.5482697,-121.988571
+CITY_USA_FRES_221,Fresno,United States,USA,North America,north,36.7394421,-119.78483
+CITY_USA_GAIN_222,Gainesville,United States,USA,North America,north,29.6519684,-82.3249846
+CITY_USA_GARL_223,Garland,United States,USA,North America,north,32.912624,-96.6388833
+CITY_USA_GENE_224,Geneva,United States,USA,North America,north,31.0862933,-85.803014
+CITY_USA_GILB_225,Gilbert,United States,USA,North America,north,33.3527632,-111.789037
+CITY_USA_GRAN_226,Grand Island,United States,USA,North America,north,40.924271,-98.338685
+CITY_USA_GREE_227,Greensboro,United States,USA,North America,north,36.0726355,-79.7919754
+CITY_USA_GREE_228,Greenville,United States,USA,North America,north,34.851354,-82.3984882
+CITY_USA_HEND_229,Henderson,United States,USA,North America,north,32.182598,-95.7893178
+CITY_USA_HOLL_230,Hollywood,United States,USA,North America,north,34.0980031,-118.329523
+CITY_USA_HOME_231,Homewood,United States,USA,North America,north,41.5574046,-87.6651467
+CITY_USA_HONO_232,Honolulu,United States,USA,North America,north,21.304547,-157.855676
+CITY_USA_HOUS_233,Houston,United States,USA,North America,north,29.7589382,-95.3676974
+CITY_USA_HUNT_234,Huntington Beach,United States,USA,North America,north,33.6783336,-118.000016
+CITY_USA_HUNT_235,Huntsville,United States,USA,North America,north,34.729847,-86.5859011
+CITY_USA_INDI_236,Indianapolis,United States,USA,North America,north,39.7683331,-86.1583502
+CITY_USA_INGL_237,Inglewood,United States,USA,North America,north,33.9562003,-118.353132
+CITY_USA_IRVI_238,Irvine,United States,USA,North America,north,33.6856969,-117.825981
+CITY_USA_IRVI_239,Irving,United States,USA,North America,north,32.8295183,-96.9442177
+CITY_USA_JACK_240,Jackson,United States,USA,North America,north,32.2998686,-90.1830408
+CITY_USA_JEFF_241,Jefferson,United States,USA,North America,north,33.5206824,-86.8024326
+CITY_USA_JERS_242,Jersey City,United States,USA,North America,north,40.7215682,-74.047455
+CITY_USA_KANS_243,Kansas City,United States,USA,North America,north,39.100105,-94.5781416
+CITY_USA_KENT_244,Kent,United States,USA,North America,north,33.1665316,-100.7846477
+CITY_USA_KNOX_245,Knoxville,United States,USA,North America,north,35.9603948,-83.9210261
+CITY_USA_LAFA_246,Lafayette,United States,USA,North America,north,29.9978185,-83.2221527
+CITY_USA_LAKE_247,Lakewood,United States,USA,North America,north,39.7085736,-105.0846694
+CITY_USA_LANC_248,Lancaster,United States,USA,North America,north,40.08067,-76.2411283
+CITY_USA_LASV_249,Las Vegas,United States,USA,North America,north,36.1699,-115.1398
+CITY_USA_LINC_250,Lincoln,United States,USA,North America,north,40.8088861,-96.7077751
+CITY_USA_LITT_251,Little Rock,United States,USA,North America,north,34.7465071,-92.2896267
+CITY_USA_LONG_252,Long Beach,United States,USA,North America,north,33.7690164,-118.191604
+CITY_USA_LOSA_253,Los Angeles,United States,USA,North America,north,34.041511,-118.2547151
+CITY_USA_LOUI_254,Louisville,United States,USA,North America,north,38.2542376,-85.759407
+CITY_USA_LUBB_255,Lubbock,United States,USA,North America,north,33.5855677,-101.8470215
+CITY_USA_MARI_256,Maricopa,United States,USA,North America,north,33.3062031,-111.841185
+CITY_USA_MEDF_257,Medford,United States,USA,North America,north,42.4184296,-71.1061639
+CITY_USA_MEMP_258,Memphis,United States,USA,North America,north,35.1460249,-90.0517638
+CITY_USA_MESA_259,Mesa,United States,USA,North America,north,33.4151005,-111.831455
+CITY_USA_META_260,Metairie,United States,USA,North America,north,30.00185465,-90.1767012249077
+CITY_USA_MIAM_261,Miami,United States,USA,North America,north,25.7741728,-80.19362
+CITY_USA_MIAM_262,Miami Beach,United States,USA,North America,north,25.7929198,-80.1353006
+CITY_USA_MILW_263,Milwaukee,United States,USA,North America,north,43.0386475,-87.9090751
+CITY_USA_MINN_264,Minneapolis,United States,USA,North America,north,44.9772995,-93.2654692
+CITY_USA_MOBI_265,Mobile,United States,USA,North America,north,30.6913462,-88.0437509
+CITY_USA_MONR_266,Monroe,United States,USA,North America,north,38.2722313,-90.1792484
+CITY_USA_MONT_267,Montgomery,United States,USA,North America,north,32.3669656,-86.3006485
+CITY_USA_NAPA_268,Napa,United States,USA,North America,north,38.2971367,-122.2855293
+CITY_USA_NASH_269,Nashville,United States,USA,North America,north,36.1622767,-86.7742984
+CITY_USA_NEWH_270,New Haven,United States,USA,North America,north,41.3082138,-72.9250518
+CITY_USA_NEWO_271,New Orleans,United States,USA,North America,north,29.9759983,-90.0782127
+CITY_USA_NEWY_272,New York,United States,USA,North America,north,40.7127281,-74.0060152
+CITY_USA_NEWA_273,Newark,United States,USA,North America,north,40.735657,-74.1723667
+CITY_USA_NORF_274,Norfolk,United States,USA,North America,north,36.8448348,-76.2863999
+CITY_USA_NORM_275,Norman,United States,USA,North America,north,35.2225717,-97.4394816
+CITY_USA_NORT_276,North Las Vegas,United States,USA,North America,north,36.1989,-115.1175
+CITY_USA_NYE_277,Nye,United States,USA,North America,north,38.3544843,-116.406961
+CITY_USA_OAKL_278,Oakland,United States,USA,North America,north,37.8044557,-122.271356
+CITY_USA_OCEA_279,Oceanside,United States,USA,North America,north,33.1958696,-117.3794834
+CITY_USA_OKLA_280,Oklahoma City,United States,USA,North America,north,35.4729886,-97.5170536
+CITY_USA_OMAH_281,Omaha,United States,USA,North America,north,41.2587459,-95.9383758
+CITY_USA_ORAN_282,Orange,United States,USA,North America,north,33.8347516,-117.911732
+CITY_USA_ORLA_283,Orlando,United States,USA,North America,north,28.5421109,-81.3790304
+CITY_USA_OVER_284,Overland Park,United States,USA,North America,north,38.9742502,-94.6851702
+CITY_USA_PALM_285,Palm Springs,United States,USA,North America,north,33.8246269,-116.540303
+CITY_USA_PASA_286,Pasadena,United States,USA,North America,north,34.1476507,-118.144155
+CITY_USA_PHIL_287,Philadelphia,United States,USA,North America,north,39.9527237,-75.1635262
+CITY_USA_PHOE_288,Phoenix,United States,USA,North America,north,33.4484367,-112.074141
+CITY_USA_PITT_289,Pittsburgh,United States,USA,North America,north,40.4416941,-79.9900861
+CITY_USA_PLAN_290,Plano,United States,USA,North America,north,33.0136764,-96.6925096
+CITY_USA_PORT_291,Portland,United States,USA,North America,north,45.5202471,-122.674194
+CITY_USA_PROV_292,Providence,United States,USA,North America,north,41.8239891,-71.4128343
+CITY_USA_RALE_293,Raleigh,United States,USA,North America,north,35.7803977,-78.6390989
+CITY_USA_RENO_294,Reno,United States,USA,North America,north,39.5261206,-119.8126581
+CITY_USA_RICH_295,Richardson,United States,USA,North America,north,40.1194651,-95.7607517
+CITY_USA_RICH_296,Richmond,United States,USA,North America,north,37.5385087,-77.43428
+CITY_USA_RIVE_297,Riverside,United States,USA,North America,north,33.7219991,-116.0372472
+CITY_USA_SACR_298,Sacramento,United States,USA,North America,north,38.5810606,-121.493895
+CITY_USA_SALE_299,Salem,United States,USA,North America,north,44.9391565,-123.033121
+CITY_USA_SALT_300,Salt Lake City,United States,USA,North America,north,40.7596198,-111.886797
+CITY_USA_SANA_301,San Antonio,United States,USA,North America,north,29.4246002,-98.4951405
+CITY_USA_SANB_302,San Bernardino,United States,USA,North America,north,34.8253019,-116.0833144
+CITY_USA_SAND_303,San Diego,United States,USA,North America,north,33.1958696,-117.3794834
+CITY_USA_SANF_304,San Francisco,United States,USA,North America,north,37.7792588,-122.4193286
+CITY_USA_SANJ_305,San Jose,United States,USA,North America,north,37.3361663,-121.890591
+CITY_USA_SANM_306,San Marcos,United States,USA,North America,north,29.8826436,-97.9405828
+CITY_USA_SAND_307,Sandy Springs,United States,USA,North America,north,33.9242688,-84.3785379
+CITY_USA_SANT_308,Santa Monica,United States,USA,North America,north,34.0194704,-118.491227
+CITY_USA_SCOT_309,Scottsdale,United States,USA,North America,north,33.4942189,-111.926018
+CITY_USA_SEAT_310,Seattle,United States,USA,North America,north,47.6038321,-122.330062
+CITY_USA_SEMI_311,Seminole,United States,USA,North America,north,28.7225829,-81.2353683
+CITY_USA_SOCO_312,Socorro,United States,USA,North America,north,34.0572858,-106.8930799
+CITY_USA_SPOK_313,Spokane,United States,USA,North America,north,47.6571934,-117.42351
+CITY_USA_SPRI_314,Springfield,United States,USA,North America,north,39.7990175,-89.6439575
+CITY_USA_STLO_315,St. Louis,United States,USA,North America,north,38.6280278,-90.1910154
+CITY_USA_STPA_316,St. Paul,United States,USA,North America,north,37.517132,-95.1760424
+CITY_USA_STPE_317,St. Petersburg,United States,USA,North America,north,27.7700475,-82.6359078
+CITY_USA_STOC_318,Stockton,United States,USA,North America,north,37.9577016,-121.290779
+CITY_USA_SUFF_319,Suffolk,United States,USA,North America,north,40.8832318,-72.8578027
+CITY_USA_TACO_320,Tacoma,United States,USA,North America,north,47.2455013,-122.438329
+CITY_USA_TALL_321,Tallahassee,United States,USA,North America,north,30.4380832,-84.2809332
+CITY_USA_TAMP_322,Tampa,United States,USA,North America,north,27.9477595,-82.458444
+CITY_USA_TAYL_323,Taylor,United States,USA,North America,north,32.2793121,-99.8812612
+CITY_USA_TEMP_324,Tempe,United States,USA,North America,north,33.4255117,-111.940016
+CITY_USA_TUCS_325,Tucson,United States,USA,North America,north,32.2228765,-110.974847
+CITY_USA_TULS_326,Tulsa,United States,USA,North America,north,36.1563122,-95.9927516
+CITY_USA_VANC_327,Vancouver,United States,USA,North America,north,45.6387,-122.6615
+CITY_USA_VIRG_328,Virginia Beach,United States,USA,North America,north,36.8529841,-75.9774183
+CITY_USA_WASH_329,"Washington, D.C.",United States,USA,North America,north,38.8950368,-77.0365427
+CITY_USA_WEST_330,West Hollywood,United States,USA,North America,north,34.0923014,-118.3692894
+CITY_USA_WEST_331,Westminster,United States,USA,North America,north,39.8366528,-105.0372046
+CITY_USA_WICH_332,Wichita,United States,USA,North America,north,37.6922361,-97.3375448
+CITY_USA_WORC_333,Worcester,United States,USA,North America,north,42.2625621,-71.8018877
+CITY_USA_YAVA_334,Yavapai,United States,USA,North America,north,34.5668857,-112.5515965
+CITY_AUS_ADEL_335,Adelaide,Australia,AUS,Oceania,south,-34.9281805,138.5999312
+CITY_AUS_BRIS_336,Brisbane,Australia,AUS,Oceania,south,-27.4689682,153.0234991
+CITY_AUS_GOLD_337,Gold Coast,Australia,AUS,Oceania,south,-28.0023731,153.4145987
+CITY_AUS_MELB_338,Melbourne,Australia,AUS,Oceania,south,-37.8142454,144.9631732
+CITY_AUS_PERT_339,Perth,Australia,AUS,Oceania,south,-31.9558933,115.8605855
+CITY_AUS_SYDN_340,Sydney,Australia,AUS,Oceania,south,-33.8698439,151.2082848
+CITY_NZL_AUCK_341,Auckland,New Zealand,NZL,Oceania,south,-36.852095,174.7631803
+CITY_NZL_CHRI_342,Christchurch,New Zealand,NZL,Oceania,south,-43.64624845,172.7927891
+CITY_ARG_BUEN_343,Buenos Aires,Argentina,ARG,South America,south,-34.6073387,-58.4432852
+CITY_BRA_PORT_344,Porto Alegre,Brasil,BRA,South America,south,-30.0324999,-51.2303767
+CITY_BRA_RIOD_345,Rio de Janeiro,Brasil,BRA,South America,south,-22.9110137,-43.2093727
+CITY_BRA_SOPA_346,São Paulo,Brasil,BRA,South America,south,-1.2043218,-47.1583944
+CITY_COL_MEDE_347,Medellín,Colombia,COL,South America,north,6.2697018,-75.6025257447594

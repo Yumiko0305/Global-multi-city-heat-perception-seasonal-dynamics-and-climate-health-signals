@@ -1,0 +1,59 @@
+# ---------------------------------------------------------------
+# Heat Perception Pipeline — .gitignore
+# ---------------------------------------------------------------
+# IMPORTANT: train.csv and test.csv contain real tweet text and
+# must NEVER be committed (Twitter/X Developer Agreement, §II.C).
+# ---------------------------------------------------------------
+
+# --- Real tweet corpora (Twitter ToS — do not redistribute) ---
+train.csv
+test.csv
+raw_tweets.csv
+*.tweets.csv
+
+# --- Real study data files ---
+city_level_data*.xlsx
+city_level_data*.xls
+
+# --- Model weights and checkpoints (too large for GitHub) ---
+outputs/
+demo_outputs/
+**/*model*/
+**/*checkpoint*/
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+.env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- Logs and temp files ---
+*.log
+*.tmp
+/tmp/

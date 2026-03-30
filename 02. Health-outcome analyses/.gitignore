@@ -1,0 +1,15 @@
+# R session artefacts
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# Input data (not redistributable — available on request)
+final_dat.rds
+
+# Generated output folders (recreated by running the scripts)
+which_better/
+which_better_allyear/
+effect_size/
+effect_size_allyear/
+output/

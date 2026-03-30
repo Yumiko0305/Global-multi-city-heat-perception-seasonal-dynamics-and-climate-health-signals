@@ -1,0 +1,15 @@
+# Heat Perception Tweet Classification Pipeline
+# Tested on Python 3.9 – 3.11
+
+# Core data
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine learning
+scikit-learn>=1.1.0
+torch>=2.0.0
+transformers>=4.35.0
+
+# Optional: WordNet lemmatization in step 01
+# Install NLTK data after: python -m nltk.downloader wordnet omw-1.4
+nltk>=3.8.0
