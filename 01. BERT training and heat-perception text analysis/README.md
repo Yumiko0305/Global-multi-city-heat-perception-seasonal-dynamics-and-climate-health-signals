@@ -18,7 +18,6 @@ This repository contains the complete code pipeline for identifying heat-percept
 04_build_gold_labels.py             ← Gold-label schema builder
 05_train_grouped_cv.py              ← BERT training: grouped CV + monthly eval
 06_validate_and_audit.py            ← Holdout evaluation + monthly audit export
-07_aggregate_city_day_indices.py    ← HPII / HPVI / HPPI / typology outputs
 sample_data/
   generate_demo_sample.py           ← Generates the synthetic demo dataset
   demo_tweets.csv                   ← 620 synthetic labelled examples (see below)
