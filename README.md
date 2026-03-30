@@ -2,7 +2,7 @@
 
 **Manuscript:** You, M., Guan, C., Guo, Y., et al. (2026). Global multi-city heat perception: seasonal dynamics and climate–health signals. *Nature Communications*.
 
-This repository contains the complete analysis code supporting the manuscript. It is organised into two self-contained modules, each with its own README, requirements, and sample data.
+This repository contains the complete analysis code supporting the manuscript. It is organised into three self-contained modules, each with its own README, requirements, and sample data.
 
 ---
 
