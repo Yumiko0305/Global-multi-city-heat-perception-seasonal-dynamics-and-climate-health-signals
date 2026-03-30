@@ -52,6 +52,7 @@ A synthetic demo dataset (no real tweets) is included so the full pipeline can b
 ## Module 2 — Health-Outcome Analyses
 
 **Code owners:** Zhihu Xu, Meizi You
+**Data owners:** Yuming Guo
 
 Compares temperature-based and heat-perception-based DLNM models for health outcomes (emergency department visits, hospitalisation, mortality) across 7 cities in Australia, Brazil, and Mexico.
 
