@@ -190,18 +190,6 @@ Accepts `sentence` + `label` columns (the output of human annotation with Cohen'
 - Overall and monthly performance metrics on a holdout set
 - Stratified monthly audit sample (500 per month, continent-proportional) for manual spot-check, matching the quality-assurance protocol described in the manuscript
 
-### Step 07 — Index Aggregation
-Produces four sets of outputs:
-
-| Index | Definition |
-|-------|-----------|
-| **HPII** | City-day share of heat-perception tweets = heat tweets / total tweets |
-| **HPVI** | Coefficient of variation of 7-day-smoothed daily HPII within each city-season |
-| **HPPI** | Continent-season polarization index (Esteban-Ray-style measure over city-level HPII/HPVI) |
-| **City typology** | Peak season, dominant season, counter-seasonal flag, multi-season indicator |
-
-Tweet-volume strata (bottom 30% / middle 40% / top 30%) for the sensitivity analysis reported in Supplementary Note S3.
-
 ---
 
 ## Requirements
