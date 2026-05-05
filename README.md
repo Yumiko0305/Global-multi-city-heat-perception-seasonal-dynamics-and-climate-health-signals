@@ -96,5 +96,5 @@ MIT License — see [LICENSE](LICENSE).
 
 ## Contact
 
-- Meizi You: my2683@nyu.edu | meizi.you@monash.edu
+- Meizi You: my2683@nyu.edu | meizi.you@monash.edu | meizi.you@gmail.com
 - Zhihu Xu: zhihu.xu@monash.edu
